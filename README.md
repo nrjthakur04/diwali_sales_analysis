@@ -148,4 +148,4 @@ Based on the analysis, we recommend the following actions:
 
 - Leverage Marital Status: Personalize offers for married and single customers based on purchasing behavior differences.
 
-- 
+
